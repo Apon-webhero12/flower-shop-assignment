@@ -1,3 +1,6 @@
+/* <!-- section 1 begin--> */
+
+
 .banner{
     background-color: rgb(236, 118, 118);
     display: flex; 
@@ -18,9 +21,13 @@
     height: 90%;
     margin-left: 150px;
     margin-top: 50px;
-  
-    
 }
+
+/* <!-- section 1 end--> */
+
+
+/* <!-- section 2 begin--> */
+
 .headerr{
     text-align: left;
     margin-top: 100px;
@@ -66,6 +73,11 @@ border-top-left-radius: 200px;
     text-decoration-line: underline;
 }
 
+/* <!-- section 2 end--> */
+
+
+/* <!-- section 3 begin--> */
+
 .secthimage{
     display: flex;
     justify-content: center;
@@ -80,6 +92,12 @@ border-top-left-radius: 200px;
     margin-left: 30px;
     margin-right: 30px;
 }
+
+/* <!-- section 3 end--> */
+
+
+/* <!-- section 4 begin--> */
+
 
 .banntwo{
     background-color: rgb(189, 167, 167);
@@ -100,6 +118,12 @@ border-top-left-radius: 200px;
     margin-top: 50px;
     margin-bottom: 50px;
 }
+
+/* <!-- section 4 end --> */
+
+
+/* <!-- section 5 begin --> */
+
 .secfiveo{
     text-align: center;
     margin-top: 80px;
@@ -128,3 +152,68 @@ border-top-left-radius: 200px;
 background-color: rgb(171, 128, 212);
 margin-left: 10px;
 }
+
+/* <!-- section 5 end --> */
+
+
+/* <!-- section 6 begin --> */
+
+
+.flvid{
+    justify-content: center;
+    text-align: center;
+    margin-top: 80px;
+    border: 10px solid violet;
+    padding-bottom: 50px;
+    background-color: rgb(191, 147, 233);
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.flmar{
+    margin-bottom: 40px;
+    font-size: 100px;
+    font-weight: bolder;
+color: rgb(65, 13, 114);
+}
+
+/* <!-- section 6 end --> */
+
+
+/* <!-- section 7 begin --> */
+
+
+.subs{
+    text-align: center;
+    margin-top: 50px;
+    background-image: url(Rectangle\ 9.png);
+    padding-top: 50px;
+    padding-bottom: 10px;
+    margin-left: 140px;
+    margin-right: 140px;
+    height: 200px;
+}
+#mail{
+    width: 500px;
+    padding: 10px;
+    border: 1px solid rgb(156, 156, 212);
+}
+
+/* <!-- section 7 end --> */
+
+
+/* <!-- section 8 begin --> */
+
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#flw{
+color: rgb(207, 88, 88);
+}
+
+/* <!-- section 8 end --> */
