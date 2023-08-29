@@ -1,0 +1,67 @@
+.banner{
+    background-color: rgb(236, 118, 118);
+    display: flex; 
+    height: 500px;
+    justify-content: center;
+}
+.btn{
+    background-color: brown;
+    color: bisque;
+    text-align: center;
+    padding: 5px;
+    border: 0;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+}
+.himage{
+    height: 90%;
+    margin-left: 150px;
+    margin-top: 50px;
+  
+    
+}
+.headerr{
+    text-align: left;
+    margin-top: 100px;
+    
+}
+.fhead{
+    text-align: center;
+    margin-top: 100px;
+}
+.fimage{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 80px;
+    
+}
+.fbgcolor1{
+background-color: rgb(228, 141, 141);
+height: 400px;
+width: 300px;
+border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+}
+.fbgcolor2{
+    background-color: rgb(143, 184, 170);
+    height: 400px;
+    width: 300px;
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+}
+.fbgcolor3{
+    background-color: rgb(169, 218, 218);
+    height: 400px;
+width: 300px;
+border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+}
+.fpadd{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.flcolor{
+    text-decoration-line: underline;
+}
